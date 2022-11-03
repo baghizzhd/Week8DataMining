@@ -1,56 +1,56 @@
 Area Category,Nama Daerah,Luas Tanah (m2),Luas Bangunan (m2),Jumlah Kamar,Jumlah Kamar Mandi,Tingkat/Lantai ,Harga Penawaran (dari Owner),Terjual/Belum,Arah Hadap Rumah,Posisi Rumah,Lebar Jalan Depan Rumah (ROW)
 ,,,,,,,,,,,
-Below Standard,Setro Baru Utara,30.00,60.00,2,1,2,287799000,Belum,,Standard,< 1 Mobil
-Standard,Kenjeran,170.00,170.00,5,4,2,2699999999,Belum,Selatan,Cul De Sac/Ujung Gang Buntu,1-2 Mobil
-Sangat Premium,Kenjeran,187.00,250.00,5,5,2,3100000000,Belum,Utara,Standard,1-2 Mobil
-Premium,Kenjeran,350.00,600.00,5,5,2,5000000000,Belum,Barat,Standard,1-2 Mobil
-Premium,Kenjeran,450.00,530.00,5,6,2,10800000000,Belum,,Standard,1-2 Mobil
-Below Standard,Gubeng,96.00,60.00,2,1,1,390000000,Belum,,Standard,1-2 Mobil
-Premium,Gubeng,85.00,100.00,3,2,2,725000000,Belum,,Standard,1-2 Mobil
-Below Standard,Sawahan,72.00,120.00,4,1,1,775000000,Belum,Barat,Tikungan/Hook,< 1 Mobil
-Standard,Gubeng,50.00,100.00,2,2,2,850000000,Belum,,Standard,1-2 Mobil
-Standard,Mulyorejo,72.00,72.00,3,2,1,1100000000,Belum,Selatan,Standard,> 2 Mobil
-Below Standard,Gubeng,100.00,90.00,2,2,1,1199999999,Belum,,Standard,1-2 Mobil
-Premium,Tegalsari,90.00,76.00,2,2,2,1266655525,Belum,,Standard,1-2 Mobil
-Standard,Gubeng,104.00,215.00,4,4,2,1350000000,Belum,Timur,Standard,1-2 Mobil
-Standard,Gubeng,104.00,215.00,4,4,2,1350000000,Belum,Timur,Standard,1-2 Mobil
-Standard,Gubeng,84.00,120.00,4,2,2,1350000000,Belum,Selatan,Standard,> 2 Mobil
-Standard,Mulyorejo,158.00,230.00,2,2,2,1650000000,Belum,Selatan,Standard,1-2 Mobil
-Standard,Mulyorejo,144.00,182.00,4,3,2,2100000000,Belum,Selatan,Standard,1-2 Mobil
-Premium,Sawahan,163.00,180.00,5,4,2,2100000000,Belum,Selatan,Standard,1-2 Mobil
-Below Standard,Tegalsari,150.00,150.00,2,1,1,2300000000,Belum,,Standard,< 1 Mobil
-Standard,Mulyorejo,140.00,140.00,3,2,2,2400000000,Belum,Utara,Standard,1-2 Mobil
-Premium,Gubeng,96.00,228.00,4,2,2,2699999999,Belum,,Standard,1-2 Mobil
-Standard,Gubeng,204.00,250.00,3,4,2,2750000000,Belum,,Standard,> 2 Mobil
-Premium,Mulyorejo,144.00,180.00,5,4,2,2900000000,Belum,Selatan,Standard,1-2 Mobil
-Standard,Gubeng,200.00,180.00,4,3,1,3200000000,Belum,Utara,Standard,1-2 Mobil
-Standard,Gubeng,180.00,320.00,6,4,2,3200000000,Belum,Selatan,Standard,> 2 Mobil
-Standard,Tambaksari,180.00,160.00,4,4,2,3700000000,Belum,Selatan,Standard,1-2 Mobil
-Standard,Mulyorejo,200.00,250.00,4,3,2,3900000000,Belum,Utara,Standard,1-2 Mobil
-Standard,Tambaksari,420.00,570.00,5,4,2,4500000000,Belum,Timur,Standard,1-2 Mobil
-Premium,Gubeng,204.00,270.00,5,4,2,4700000000,Belum,Timur,Tikungan/Hook,> 2 Mobil
-Premium,Mulyorejo,200.00,211.00,4,5,2,4900000000,Belum,Selatan,Standard,> 2 Mobil
-Premium,Gubeng,312.00,500.00,6,5,2,5500000000,Belum,,Standard,1-2 Mobil
-Premium,Mulyorejo,264.00,400.00,4,3,2,5500000000,Belum,Selatan,Standard,1-2 Mobil
-Premium,Mulyorejo,240.00,263.00,4,3,2,6000000000,Belum,,Standard,1-2 Mobil
-Standard,Gubeng,297.00,290.00,8,3,2,7500000000,Belum,Utara,Tikungan/Hook,1-2 Mobil
-Premium,Tegalsari,352.00,367.00,5,7,2,8250000000,Belum,Utara,Tikungan/Hook,> 2 Mobil
-Sangat Premium,Mulyorejo,450.00,4 98,5,3,2,9500000000,Belum,Timur,Standard,1-2 Mobil
-Sangat Premium,Mulyorejo,343.00,601.00,7,4,3,12000000000,Belum,Barat,Tikungan/Hook,1-2 Mobil
-Standard,Gubeng,525.00,300.00,6,3,1,13500000000,Belum,,Standard,1-2 Mobil
-Standard,Gubeng,522.00,"1,000.00",7,6,2,18000000000,Belum,,Standard,1-2 Mobil
-Standard,Gubeng,600.00,600.00,7,5,1,99000000000,Belum,Barat,Standard,1-2 Mobil
-Standard,Mulyorejo,180.00,240.00,5,5,2, ,Belum,Timur,Standard,> 2 Mobil
-Below Standard,Kalilom Lor Timur,14.00,14.00,1,1,2,180000000,Belum,,Standard,< 1 Mobil
-Below Standard,Jelidro Manukan,42.00,42.00,2,1,1,185000000,Belum,,Standard,< 1 Mobil
-Below Standard,Kalilom,21.00,40.00,2,1,2,225000000,Belum,,Standard,1-2 Mobil
-Below Standard,Bulak Cumpat barat,16.00,150.00,2,1,2,230000000,Belum,,Standard,1-2 Mobil
-Standard,Tambak Wedi,18.00,36.00,2,1,2,250000000,Belum,,Standard,1-2 Mobil
-Below Standard,Lebak Jaya,32.00,16.00,2,1,2,260000000,Belum,Utara,Standard,1-2 Mobil
-Below Standard,Setro Baru Utara,26.00,50.00,2,2,2,310000000,Belum,,Standard,< 1 Mobil
-Below Standard,Simo Gunung Kramat Timur,36.00,36.00,2,1,2,340000000,Belum,,Standard,< 1 Mobil
-Below Standard,Medokan Ayu,50.00,50.00,2,1,1,375000000,Belum,,Standard,1-2 Mobil
-Standard,Lebak Rejo,32.00,64.00,2,2,2,440000000,Belum,,Standard,1-2 Mobil
+Below Standard,Setro Baru Utara,30,60,2,1,2,287799000,Belum,,Standard,< 1 Mobil
+Standard,Kenjeran,170,170,5,4,2,2699999999,Belum,Selatan,Cul De Sac/Ujung Gang Buntu,1-2 Mobil
+Sangat Premium,Kenjeran,187,250,5,5,2,3100000000,Belum,Utara,Standard,1-2 Mobil
+Premium,Kenjeran,350,600,5,5,2,5000000000,Belum,Barat,Standard,1-2 Mobil
+Premium,Kenjeran,450,530,5,6,2,10800000000,Belum,,Standard,1-2 Mobil
+Below Standard,Gubeng,96,60,2,1,1,390000000,Belum,,Standard,1-2 Mobil
+Premium,Gubeng,85,100,3,2,2,725000000,Belum,,Standard,1-2 Mobil
+Below Standard,Sawahan,72,120,4,1,1,775000000,Belum,Barat,Tikungan/Hook,< 1 Mobil
+Standard,Gubeng,50,100,2,2,2,850000000,Belum,,Standard,1-2 Mobil
+Standard,Mulyorejo,72,72,3,2,1,1100000000,Belum,Selatan,Standard,> 2 Mobil
+Below Standard,Gubeng,100,90,2,2,1,1199999999,Belum,,Standard,1-2 Mobil
+Premium,Tegalsari,90,76,2,2,2,1266655525,Belum,,Standard,1-2 Mobil
+Standard,Gubeng,104,215,4,4,2,1350000000,Belum,Timur,Standard,1-2 Mobil
+Standard,Gubeng,104,215,4,4,2,1350000000,Belum,Timur,Standard,1-2 Mobil
+Standard,Gubeng,84,120,4,2,2,1350000000,Belum,Selatan,Standard,> 2 Mobil
+Standard,Mulyorejo,158,230,2,2,2,1650000000,Belum,Selatan,Standard,1-2 Mobil
+Standard,Mulyorejo,144,182,4,3,2,2100000000,Belum,Selatan,Standard,1-2 Mobil
+Premium,Sawahan,163,180,5,4,2,2100000000,Belum,Selatan,Standard,1-2 Mobil
+Below Standard,Tegalsari,150,150,2,1,1,2300000000,Belum,,Standard,< 1 Mobil
+Standard,Mulyorejo,140,140,3,2,2,2400000000,Belum,Utara,Standard,1-2 Mobil
+Premium,Gubeng,96,228,4,2,2,2699999999,Belum,,Standard,1-2 Mobil
+Standard,Gubeng,204,250,3,4,2,2750000000,Belum,,Standard,> 2 Mobil
+Premium,Mulyorejo,144,180,5,4,2,2900000000,Belum,Selatan,Standard,1-2 Mobil
+Standard,Gubeng,200,180,4,3,1,3200000000,Belum,Utara,Standard,1-2 Mobil
+Standard,Gubeng,180,320,6,4,2,3200000000,Belum,Selatan,Standard,> 2 Mobil
+Standard,Tambaksari,180,160,4,4,2,3700000000,Belum,Selatan,Standard,1-2 Mobil
+Standard,Mulyorejo,200,250,4,3,2,3900000000,Belum,Utara,Standard,1-2 Mobil
+Standard,Tambaksari,420,570,5,4,2,4500000000,Belum,Timur,Standard,1-2 Mobil
+Premium,Gubeng,204,270,5,4,2,4700000000,Belum,Timur,Tikungan/Hook,> 2 Mobil
+Premium,Mulyorejo,200,211,4,5,2,4900000000,Belum,Selatan,Standard,> 2 Mobil
+Premium,Gubeng,312,500,6,5,2,5500000000,Belum,,Standard,1-2 Mobil
+Premium,Mulyorejo,264,400,4,3,2,5500000000,Belum,Selatan,Standard,1-2 Mobil
+Premium,Mulyorejo,240,263,4,3,2,6000000000,Belum,,Standard,1-2 Mobil
+Standard,Gubeng,297,290,8,3,2,7500000000,Belum,Utara,Tikungan/Hook,1-2 Mobil
+Premium,Tegalsari,352,367,5,7,2,8250000000,Belum,Utara,Tikungan/Hook,> 2 Mobil
+Sangat Premium,Mulyorejo,450,4 98,5,3,2,9500000000,Belum,Timur,Standard,1-2 Mobil
+Sangat Premium,Mulyorejo,343,601,7,4,3,12000000000,Belum,Barat,Tikungan/Hook,1-2 Mobil
+Standard,Gubeng,525,300,6,3,1,13500000000,Belum,,Standard,1-2 Mobil
+Standard,Gubeng,522,1000,7,6,2,18000000000,Belum,,Standard,1-2 Mobil
+Standard,Gubeng,600,600,7,5,1,99000000000,Belum,Barat,Standard,1-2 Mobil
+Standard,Mulyorejo,180,240,5,5,2, ,Belum,Timur,Standard,> 2 Mobil
+Below Standard,Kalilom Lor Timur,14,14,1,1,2,180000000,Belum,,Standard,< 1 Mobil
+Below Standard,Jelidro Manukan,42,42,2,1,1,185000000,Belum,,Standard,< 1 Mobil
+Below Standard,Kalilom,21,40,2,1,2,225000000,Belum,,Standard,1-2 Mobil
+Below Standard,Bulak Cumpat barat,16,150,2,1,2,230000000,Belum,,Standard,1-2 Mobil
+Standard,Tambak Wedi,18,36,2,1,2,250000000,Belum,,Standard,1-2 Mobil
+Below Standard,Lebak Jaya,32,16,2,1,2,260000000,Belum,Utara,Standard,1-2 Mobil
+Below Standard,Setro Baru Utara,26,50,2,2,2,310000000,Belum,,Standard,< 1 Mobil
+Below Standard,Simo Gunung Kramat Timur,36,36,2,1,2,340000000,Belum,,Standard,< 1 Mobil
+Below Standard,Medokan Ayu,50,50,2,1,1,375000000,Belum,,Standard,1-2 Mobil
+Standard,Lebak Rejo,32,64,2,2,2,440000000,Belum,,Standard,1-2 Mobil
 Standard,Medokan Sawah,51,70,2,2,2,477500000,Belum,,Standard,1-2 Mobil
 Below Standard,Klampis Ngasem,36,36,2,2,2,550000000,Belum,,Standard,1-2 Mobil
 Below Standard,Medokan Sawah,65,50,2,1,1,620000000,Belum,,Standard,> 2 Mobil
@@ -206,7 +206,7 @@ Standard,Petemon,42,84,2,1,2,500000000,Belum,Utara,,1-2 Mobil
 Premium,Wiyung,162,220,5,3,2,2788000000,Belum,Utara,Tikungan/Hook,> 2 Mobil
 Standard,Petemon,50,80,3,1,2,400000000,Belum,Barat,,< 1 Mobil
 Standard,Mulyorejo,120,200,5,4,2,2100000000,Belum,Selatan,,1-2 Mobil
-Sangat Premium,Graha,360,500,5,5,2,"10,500,000,000.00",Belum,Selatan,,
+Sangat Premium,Graha,360,500,5,5,2,10500000000,Belum,Selatan,,
 Premium,Manyar,225,350,5,4,3,4750000000,Belum,Utara,Cul De Sac/Ujung Gang Buntu,
 Standard,Gubeng,34,50,2,2,2,825000000,Belum,,Tusuk Sate,1-2 Mobil
 Standard,Manyar,200,180,4,3,1.5,3299000000,Belum,Utara,,1-2 Mobil
