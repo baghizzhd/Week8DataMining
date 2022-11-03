@@ -1,0 +1,8 @@
+Area Category,Kategorikal,Ordinal,Umur Bangunan,Posisi Rumah,Fasilitas Umum,Lebar ROW,Arah Hadap Rumah
+Sangat Premium,Yes,0,> 10 Tahun,Tusuk Sate,Pasar,< 1 Mobil,Utara
+Premium,No,1,5 - 10 Tahun,Tikungan/Hook,Sekolah,1-2 Mobil,Selatan
+Standard,Terjual,2,1 - 4 Tahun,Tusuk Belakang/Membelakangi Jalan,Mall,> 2 Mobil,Timur
+Below Standard,Belum,3,,Kantong Belakang/Ngantong,Tempat Ibadah,,Barat
+,,,,Standard,Makam,,
+,,,,Cul De Sac/Ujung Gang Buntu,Club House,,
+,,,,,Transportasi Umum,,
